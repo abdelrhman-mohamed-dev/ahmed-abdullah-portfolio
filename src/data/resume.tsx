@@ -11,7 +11,7 @@ export const DATA = {
     "Software Engineer turned Entrepreneur and Programming Teacher. Passionate about building innovative solutions and empowering others to learn and grow.",
   summary:
     "Passionate about inspiring the next generation of innovators, I bring hands-on experience in teaching programming and game development, alongside a strong foundation in computer science and artificial intelligence. With a dedication to fostering critical thinking and engagement in students, I am eager to contribute to a collaborative and inclusive educational environment that encourages curiosity and creativity. My goal is to deliver impactful learning experiences that empower students to explore and excel in the everevolving tech landscape.",
-  avatarUrl: "",
+  avatarUrl: "/me.jpg",
   skills: [
     "Python",
     "C#",
